@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hello! My name is Jenny Pan-iem a passionate self-taught Software QA Engineer with over 5 years of hands-on experience in testing and reviewing iOS apps. I specialize in ensuring the quality and reliability of software through meticulous testing processes. Currently, I'm diving into the world of QA automation to enhance efficiency and streamline testing workflows.</p>
+<p align="left">👋 Hello! My name is Jenny Pan-iem a passionate self-taught QA tester and <strong>actively looking for a job</strong> as a Software <em>QA Engineer</em>. I have hands-on experience in testing and reviewing iOS apps. I specialize in ensuring the quality and reliability of software through meticulous testing processes. Currently, I'm diving into the world of QA automation to enhance efficiency and streamline testing workflows.</p>
 
 ###
 
