@@ -28,9 +28,6 @@ I'm actively expanding my skill set, and currently, I'm focused on mastering QA 
 - LinkedIn: [https://www.linkedin.com/in/jenny-pan-iem-667003218/](#)
 - Email: jenny_yoshiki@yahoo.com
 
-## Contributions
-Feel free to contribute to this repository by forking and submitting pull requests. I'm open to collaboration and always appreciate valuable input.
-
 
 <h2 align="left">I code with</h2>
 
