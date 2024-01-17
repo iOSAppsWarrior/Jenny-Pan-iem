@@ -61,13 +61,11 @@ I'm actively expanding my skill set, and currently, I'm focused on mastering QA 
 
 ###
 
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/iOSAppsWarrior/count.svg?"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/iOSAppsWarrior/iOSAppsWarrior/output/snake.svg" alt="Snake animation" />
 
 ###
 
