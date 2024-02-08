@@ -25,7 +25,7 @@
 I'm actively expanding my skill set, and currently, I'm focused on mastering QA automation tools and frameworks. Stay tuned for updates on my progress and new projects!
 
 ## How to Reach Me
-- LinkedIn: [https://www.linkedin.com/in/jenny-pan-iem-667003218/](#)
+- LinkedIn: [https://www.linkedin.com/in/jenny-pan-iem-667003218
 - Email: jenny_yoshiki@yahoo.com
 
 
