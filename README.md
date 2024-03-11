@@ -17,7 +17,7 @@
 
 ## Skills
 - **Testing Platforms:** iOS
-- **Tools:** Jira, Trello, Postman, Selenium
+- **Tools:** Jira, Qase.io, Postman, Selenium
 - **Languages:** HTML, CSS, JavaScript, Python, SQL
 - **Automation:** Currently learning and exploring QA automation
 
